@@ -1,6 +1,6 @@
 <template>
-  <div class="flex flex-row h-full">
-    <nav class="flex flex-col w-64 bg-gray-100 h-full">
+  <div class="flex flex-row">
+    <nav class="flex flex-col w-64 bg-gray-100 h-screen">
       <div class="h-10 flex items-center justify-center">
         <a href="#" class="text-2xl font-bold text-gray-900">Menu</a>
       </div>
